@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ReshmaEv
 - 👀 I’m interested in 
-- 🌱 I’m currently learning full stack development 
-- 💞️ I’m looking to collaborate on HTML,CSS,JAVASCRIPT projects
+- 🌱 I’m currently learning  MERN stack development 
+- 💞️ I’m looking to collaborate on React,node.js,express.js,mongoDB projects
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
